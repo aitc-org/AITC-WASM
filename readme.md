@@ -1,4 +1,4 @@
-# sDAG-SDK-js - sDAGraph JavaScript API
+# AITC-WASM - AITC JavaScript API
 
 
 ## Installation
@@ -7,9 +7,9 @@ npm i sdagraph
 ```
 ## Usage and Example
 
-- [Generate Account](https://github.com/sDAGraph/sDAG-SDK-js/blob/master/docs/account.md)
+- [Generate Account](https://github.com/aitc-org/AITC-WASM/blob/master/docs/account.md)
 
-- [Generate Transaction](https://github.com/sDAGraph/sDAG-SDK-js/blob/master/docs/transaction.md)
+- [Generate Transaction](https://github.com/aitc-org/AITC-WASM/blob/master/docs/transaction.md)
 
 ## Contributing
 
